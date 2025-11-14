@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Campus App](https://github.com/dennisliu06/campus-app)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **liu.denn@northeastern.edu**
 
